@@ -18,4 +18,4 @@ My GitHub page is http://github.com/ababed29.github.io
 
 * Lab 4, Part 1
 
-    Again, this lab made me really enjoy and have fun with coding. When I can create a program that takes a user's input, and gives the user useful information that is convenient to them, they tend to be my favorites. 
+    Again, this lab made me really enjoy and have fun with coding. When I can create a program that takes a user's input, and gives the user useful information that is convenient to them, they tend to be my favorites. Using math to get an output you wouldn't normally obtain is a topic I look forward to in the future. 
