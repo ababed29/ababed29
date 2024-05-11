@@ -6,7 +6,7 @@ This is my home page! My name is Abdullah Abed and I am a student at California 
 
 My GitHub page is https://github.com/ababed29/ababed29.github.io.git
 
-### CPSC 120
+### CPSC 120A
 
 * Lab 9, Part 2
 
